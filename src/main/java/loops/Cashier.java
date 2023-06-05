@@ -20,4 +20,6 @@ public class Cashier {
 
         System.out.println("Total cost of items: " + total);
     }
+
+
 }
